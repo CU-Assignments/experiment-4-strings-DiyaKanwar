@@ -1,3 +1,6 @@
+//UID:22BCS10472
+//Name: Diya Kanwar
+
 #include <iostream>
 #include <string>
 using namespace std;
